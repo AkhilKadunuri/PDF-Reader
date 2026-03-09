@@ -16,10 +16,6 @@ A simple Python application that converts PDF text into speech using text-to-spe
 
 ## 📦 Installation
 
-Clone the repository:
-
-git clone https://github.com/YOUR_USERNAME/PDF-to-Speech.git
-
 Install dependencies:
 
 pip install -r requirements.txt
